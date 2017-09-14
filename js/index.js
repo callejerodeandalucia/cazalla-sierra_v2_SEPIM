@@ -75,7 +75,7 @@ function geolocalizar(){
 			  cargarCategoria();
 		  };
 		  var errorFunction = function(){
-			  alert("Compruebe que tiene activada la ubicación del dispositivo y que se encuentra cerca del municipio: Carrión");
+			  alert("Compruebe que tiene activada la ubicación del dispositivo y que se encuentra cerca del municipio: Cazalla de la Sierra");
 			  loading(false);
 		  };
 		  loading(true);	
